@@ -2,6 +2,13 @@
 
 A clinical decision support system powered by a fine-tuned Meta Llama 3.2 1B Instruct for symptom analysis, differential diagnosis, and treatment planning.
 
+## Demo
+<img width="1920" height="1128" alt="1" src="https://github.com/user-attachments/assets/de7eeb1e-c29a-4083-823d-cebd1b9c87a0" />
+
+<img width="1757" height="1008" alt="2" src="https://github.com/user-attachments/assets/fdf22c28-af67-4967-a35c-72d2b92b0637" />
+
+<img width="1730" height="854" alt="3" src="https://github.com/user-attachments/assets/c7b7c582-e445-4e30-bcdd-9e3d84f25134" />
+
 ---
 
 ## Overview
